@@ -1,0 +1,6 @@
+complaint_id,customer_id,category,complaint_text,priority,status,resolution_time
+1,101,Billing,Charged twice for same transaction,High,Closed,3
+2,102,Service,Internet not working for 2 days,Critical,Open,
+3,103,Delivery,Product arrived late,Medium,Closed,5
+4,104,Billing,Incorrect bill amount generated,High,Closed,2
+5,105,Service,Customer support not responding,High,Open,
